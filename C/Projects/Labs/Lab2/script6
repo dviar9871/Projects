@@ -1,0 +1,9 @@
+#!/bin/bash
+date
+for DOEARLY in Y N
+do echo $DOEARLY
+for TIMES in {1..100}
+do ./lab2 -n 200000000 -a I -m y -s 10 -e $DOEARLY| grep "CPU"
+done
+done
+date

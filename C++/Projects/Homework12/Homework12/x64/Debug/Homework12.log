@@ -1,0 +1,27 @@
+﻿  disjointSetForest.cpp
+C:\Users\dxvia\source\repos\Homework12\Homework12\disjointSetForest.cpp(87,29): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\Homework12\Homework12\disjointSetForest.cpp(94,28): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\Homework12\Homework12\disjointSetForest.cpp(136,18): warning C4244: '+=': conversion from '_Rep' to 'uint32_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\Homework12\Homework12\disjointSetForest.cpp(142,18): warning C4244: '+=': conversion from '_Rep' to 'uint32_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\Homework12\Homework12\disjointSetForest.cpp(148,18): warning C4244: '+=': conversion from '_Rep' to 'uint32_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Homework12.vcxproj -> C:\Users\dxvia\source\repos\Homework12\x64\Debug\Homework12.exe

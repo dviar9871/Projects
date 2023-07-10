@@ -1,0 +1,16 @@
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.exe
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.deps.json
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.runtimeconfig.json
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.runtimeconfig.dev.json
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.dll
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\bin\Debug\net5.0\CollectionsNotes.pdb
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.csproj.AssemblyReference.cache
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.AssemblyInfoInputs.cache
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.AssemblyInfo.cs
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.csproj.CoreCompileInputs.cache
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.dll
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\refint\CollectionsNotes.dll
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.pdb
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\CollectionsNotes.genruntimeconfig.cache
+C:\Users\dxvia\source\repos\CollectionsNotes\CollectionsNotes\obj\Debug\net5.0\ref\CollectionsNotes.dll

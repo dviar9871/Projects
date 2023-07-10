@@ -1,0 +1,18 @@
+﻿  sortComparison.cpp
+C:\Users\dxvia\source\repos\sortComparison\sortComparison.cpp(108,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dxvia\source\repos\sortComparison\sortComparison.cpp(162,18): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\sortComparison\sortComparison.cpp(171,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\sortComparison\sortComparison.cpp(180,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  sortComparison.vcxproj -> C:\Users\dxvia\source\repos\sortComparison\x64\Debug\sortComparison.exe

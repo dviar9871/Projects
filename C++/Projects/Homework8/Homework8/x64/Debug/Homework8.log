@@ -1,0 +1,36 @@
+﻿  RedBlackTree.cpp
+  main.cpp
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(80,87): warning C4244: 'argument': conversion from 'double' to 'const __int64', possible loss of data
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(80,164): warning C4244: 'argument': conversion from 'double' to 'const __int64', possible loss of data
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(94,18): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(108,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(123,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(138,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(152,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\dxvia\source\repos\repos\Homework8\Homework8\main.cpp(166,62): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  Homework8.vcxproj -> C:\Users\dxvia\source\repos\repos\Homework8\x64\Debug\Homework8.exe

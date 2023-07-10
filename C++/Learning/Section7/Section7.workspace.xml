@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section7" Database="" Version="10000">
+  <Project Name="Section7_notes" Path="Section7_notes/Section7_notes.project" Active="Yes"/>
+  <Project Name="Section7_Challange" Path="Section7_Challange/Section7_Challange.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Section7_notes" ConfigName="Debug"/>
+      <Project Name="Section7_Challange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Section7_notes" ConfigName="Release"/>
+      <Project Name="Section7_Challange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,16 @@
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.exe
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.deps.json
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.runtimeconfig.json
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.runtimeconfig.dev.json
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.dll
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\bin\Debug\net5.0\CS_Logic.pdb
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.csproj.AssemblyReference.cache
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.AssemblyInfoInputs.cache
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.AssemblyInfo.cs
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.csproj.CoreCompileInputs.cache
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.dll
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\refint\CS_Logic.dll
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.pdb
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\CS_Logic.genruntimeconfig.cache
+C:\Users\dxvia\source\repos\CS_Logic\CS_Logic\obj\Debug\net5.0\ref\CS_Logic.dll

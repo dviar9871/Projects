@@ -1,0 +1,16 @@
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.exe
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.deps.json
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.runtimeconfig.json
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.runtimeconfig.dev.json
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.dll
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\CS_CH_1_Notes.dll
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\CS_CH_1_Notes.pdb
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.csproj.AssemblyReference.cache
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.AssemblyInfoInputs.cache
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.AssemblyInfo.cs
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.csproj.CoreCompileInputs.cache
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.dll
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\CS_CH_1_Notes.dll
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.pdb
+C:\Users\dxvia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\CS_CH_1_Notes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+#!/bin/bash
+date
+for ALG in I
+do echo $ALG
+for THRESHOLD in {3..13..1}
+do echo $THRESHOLD
+for TIMES in {1..30} 
+do ./lab2 -n 100000000 -s $THRESHOLD -m n -a $ALG 
+done
+done
+done
+date

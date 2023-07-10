@@ -1,0 +1,9 @@
+#!/bin/bash
+date
+for SIZE in 10000 20000 50000 100000 200000 500000
+do echo $SIZE
+for TIMES in {1..20}
+do ./lab2 -n $SIZE -s 700000000 -m n -a I
+done
+done
+date

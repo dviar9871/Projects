@@ -1,0 +1,9 @@
+#!/bin/bash
+date
+for MO3 in Y N
+do echo $MO3
+for TIMES in {1..100}
+do ./lab2 -n 100000000 -a I -m y -s 10 -m3 $MO3| grep "CPU"
+done
+done
+date

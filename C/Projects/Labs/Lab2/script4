@@ -1,0 +1,12 @@
+#!/bin/bash
+date
+for THREADS in {2..4}
+do echo $THREADS Threads
+for PIECES in {2..20}
+do echo $PIECES Pieces
+for TIMES in {1..20}
+do ./lab2 -n 100000000 -m y -p $PIECES -t $THREADS -a I -s 10 | grep "CPU"
+done
+done
+done
+date
