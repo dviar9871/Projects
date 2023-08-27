@@ -1,0 +1,53 @@
+/* Affects all elements on the page */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(198, 183, 233);
+  font-family: Arial;
+  font-size: 20px;
+  padding: 75px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 25;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: rgb(212, 170, 240);
+}
+
+/* Affects all elements with the class first*/
+.First {
+  color: rgb(58, 0, 105);
+}
+
+#your-name {
+  background-color: rgb(204, 153, 228);
+  border: 5px solid #db9bd6;
+  width: 400px;
+  padding: 25px;
+  margin-top: 50px;
+}
+#course-image {
+  width: 400px;
+}
+
+/*Refers to the h2 in the specific id your-name */
+#your-name h2 {
+  color: aliceblue;
+}

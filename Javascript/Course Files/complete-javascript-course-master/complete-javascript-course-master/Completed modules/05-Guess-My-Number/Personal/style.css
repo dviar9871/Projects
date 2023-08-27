@@ -1,0 +1,62 @@
+/* Importing a font to use from google API */
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(55, 51, 58);
+  font-family: "Press Start P2", sans-serif;
+}
+h1 {
+  font-family: inherit;
+  padding-left: 45rem;
+  padding-top: 40px;
+  font-size: 50px;
+  color: rgb(231, 231, 231);
+}
+.numberInfo {
+  font-family: inherit;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.4rem;
+  color: rgb(231, 231, 231);
+}
+
+.btn_again {
+  font-family: inherit;
+  position: absolute;
+  top: 1rem;
+  margin-left: 1rem;
+  font-size: 2rem;
+  color: rgb(53, 50, 56);
+}
+.btn_again:hover {
+  background-color: #000000;
+}
+
+.number {
+  font-family: inherit;
+  font-size: 6rem;
+  text-align: center;
+  width: 10rem;
+  padding: 1.5rem 1rem;
+  background-color: rgb(231, 231, 231);
+  position: absolute;
+
+  left: 49%;
+  transform: translate(-50%, 50%);
+}
+
+.back_blank {
+  background-color: rgb(231, 231, 231);
+  color: rgb(231, 231, 231);
+  width: 100%;
+  position: absolute;
+  font-size: 5px;
+  top: 25%;
+}
