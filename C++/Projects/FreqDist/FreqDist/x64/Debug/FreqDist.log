@@ -1,0 +1,9 @@
+﻿  FreqDist.cpp
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(78,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(121,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(140,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(140,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(217,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\dxvia\source\repos\FreqDist\FreqDist\FreqDist.cpp(217,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FreqDist.vcxproj -> C:\Users\dxvia\source\repos\FreqDist\x64\Debug\FreqDist.exe
