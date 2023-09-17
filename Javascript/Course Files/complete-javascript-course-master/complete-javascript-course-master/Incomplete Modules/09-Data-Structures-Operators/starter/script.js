@@ -33,6 +33,10 @@ const restaurant = {
     );
   },
 
+  orderPizza: function (mainIng, ...otherIng) {
+    console.log(mainIng);
+    console.log(otherIng);
+  },
   openingHours: {
     thu: {
       open: 12,
@@ -83,7 +87,7 @@ restaurant.orderDelivery({
 // const [i, , [j, k]] = nested;
 // console.log(i, j, k);
 
-console.log('');
+console.log();
 
 // Object Destructuring - very useful when getting data from api's
 /*
@@ -118,10 +122,10 @@ const {
 } = openingHours;
 console.log(o, c);
 */
-console.log('');
+console.log();
 
 // Spread operator - works on all iterables (arrays, strings, maps, sets) - Not Objects
-
+/*
 // Bad way
 const arr = [7, 8, 9];
 const badNewArr = [1, 2, arr[0], arr[1], arr[2]];
@@ -160,3 +164,80 @@ console.log(letters); // still in arr
 // ];
 // With spread operator, you don't need to input each element individually
 restaurant.orderPasta(...ingredients);
+*/
+
+console.log();
+
+// Rest Pattern - Does the opposite of spread operator - takes the rest of the elements and puts them into array
+/*
+
+// Destructuring
+// Spread because it is on the right side of assignment operator
+
+const arr = [1, 2, ...[3, 4]];
+
+const [a, b, ...others] = [1, 2, 3, 4, 5];
+
+console.log(a, b, others);
+// Must always be the last operator
+const [pizza, , risotto, ...otherFood] = [
+  ...restaurant.mainMenu,
+  ...restaurant.starterMenu,
+];
+console.log(pizza, risotto, otherFood);
+
+// Objects
+
+const { sat, ...weekdays } = restaurant.openingHours;
+console.log(weekdays);
+
+// Functions
+
+const add = function (...numbers) {
+  let sum = 0;
+
+  for (let i = 0; i < numbers.length; i++) {
+    sum += numbers[i];
+  }
+  console.log(sum);
+};
+
+add(2, 3);
+add(5, 3, 7, 2);
+add(8, 2, 5, 3, 2, 1, 4);
+
+const x = [23, 7, 5];
+// Unpack and repack and allows for array inputs or singular inputs
+add(...x);
+
+restaurant.orderPizza('mushrooms', 'onion', 'olives', 'spinach');
+*/
+console.log();
+
+// Logical operators can use and return any datatype, or short-circuiting
+
+// Short circuiting OR - if the first operand is truthy, it won't look at the other, if first is falsy it will check the other
+console.log(3 || 'jonas');
+
+restaurant.numGuests = 23;
+
+const guests1 = restaurant.numGuests ? restaurant.numGuests : 10;
+
+console.log(guests1);
+// It is easier to short circuit than use the ternary operator
+const guest2 = restaurant.numGuests || 10; // will not work if numGuests = 0 cause 0 is falsy
+
+console.log(guest2);
+
+// Will fail if first value is falsy
+console.log('--AND--');
+console.log(0 && 'Jonas');
+
+// Checking if method exists before calling
+if (restaurant.orderPizza) {
+  restaurant.orderPizza('mushrooms', 'spinach');
+}
+
+// easier way
+
+restaurant.orderPizza && restaurant.orderPizza('mushrooms', 'spinach');
