@@ -1,0 +1,23 @@
+To run this project, please open the .sln in Visual Studio 2022.
+
+This project uses a Dictionary from C# Collections.Generic and a Trie I made myself.
+
+To use the trie, put -t in the arguements.
+To use the Dictionary, put -d in the arguments
+
+Right Click on the EECS_4590_Proj1 in the solution explorer and select properties.
+	Go To Debug, then open debug launch profiles UI. Enter in the command line parameters in the respective box.
+
+	The command line parameters should be in the format: Path to the directory where the files are stored and which setting you are using in either order
+	Example: "C:\Users\dxvia\Desktop\Test Files" -t`or -h "C:\Users\dxvia\Desktop\Test Files"
+
+Findings:
+	I used the Stopwatch library in C# to time how long the reading and entering the entire directory into the data structures took. The Dictionary performed better than the trie by about .14 seconds consistently. I expect this is because of
+the increased time it takes to go through each node every time on the trie, O(N) everytime, whereas the Dictionary, while a List(Dynamic Array), had insertions of O(1) unless a resize was needed due to optimizations in the data structure.
+
+
+Trie Timing: 				Dictionary Timing:
+
+Test 1: 00:00:00.6297837		Test 1: 00:00:00.4992611
+Test 2: 00:00:00.6383711		Test 2:	00:00:00.4942299
+Test 3: 00:00:00.6264327		Test 3: 00:00:00.4897173

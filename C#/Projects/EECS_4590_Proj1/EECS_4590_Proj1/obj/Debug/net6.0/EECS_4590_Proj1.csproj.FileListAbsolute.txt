@@ -1,0 +1,15 @@
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\bin\Debug\net6.0\EECS_4590_Proj1.exe
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\bin\Debug\net6.0\EECS_4590_Proj1.deps.json
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\bin\Debug\net6.0\EECS_4590_Proj1.runtimeconfig.json
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\bin\Debug\net6.0\EECS_4590_Proj1.dll
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\bin\Debug\net6.0\EECS_4590_Proj1.pdb
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.csproj.AssemblyReference.cache
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.AssemblyInfoInputs.cache
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.AssemblyInfo.cs
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.csproj.CoreCompileInputs.cache
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.dll
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\refint\EECS_4590_Proj1.dll
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.pdb
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\EECS_4590_Proj1.genruntimeconfig.cache
+C:\Users\dxvia\source\repos\EECS_4590_Proj1\EECS_4590_Proj1\obj\Debug\net6.0\ref\EECS_4590_Proj1.dll

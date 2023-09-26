@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EECS_4590_Proj1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\dxvia\\Desktop\\Test Files\" -d"
+    }
+  }
+}
