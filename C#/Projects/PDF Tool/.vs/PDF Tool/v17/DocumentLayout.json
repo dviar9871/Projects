@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|C:\\Users\\Dviar\\source\\repos\\PDF Tool\\pdf tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|c:\\users\\dviar\\source\\repos\\pdf tool\\pdf tool\\pdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\pdfhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|C:\\Users\\Dviar\\source\\repos\\PDF Tool\\pdf tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|c:\\users\\dviar\\source\\repos\\pdf tool\\pdf tool\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|C:\\Users\\Dviar\\source\\repos\\PDF Tool\\pdf tool\\filepathobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\filepathobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|C:\\Users\\Dviar\\source\\repos\\PDF Tool\\pdf tool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D70D8641-DE37-48C2-95D8-2900448789ED}|PDF Tool\\PDF Tool.csproj|solutionrelative:pdf tool\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PDF Tool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml",
+              "RelativeToolTip": "PDF Tool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T12:19:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\App.xaml",
+              "RelativeDocumentMoniker": "PDF Tool\\App.xaml",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\App.xaml",
+              "RelativeToolTip": "PDF Tool\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T14:07:08.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilePathObject.cs",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\FilePathObject.cs",
+              "RelativeDocumentMoniker": "PDF Tool\\FilePathObject.cs",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\FilePathObject.cs",
+              "RelativeToolTip": "PDF Tool\\FilePathObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:16:01.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\PdfHandler.cs",
+              "RelativeDocumentMoniker": "PDF Tool\\PdfHandler.cs",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\PdfHandler.cs",
+              "RelativeToolTip": "PDF Tool\\PdfHandler.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAmwDIBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:17:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PDF Tool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "PDF Tool\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwLAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:14:36.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "901fe70e-0360-4c69-aab0-ee087d04e9c4",
+        "Display": 1,
+        "X": 445,
+        "Y": 372,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PDF Tool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dviar\\source\\repos\\PDF Tool\\PDF Tool\\MainWindow.xaml",
+              "RelativeToolTip": "PDF Tool\\MainWindow.xaml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAArwFcAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-15T12:19:35.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
